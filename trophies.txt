@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+</style>
+</head>
+<body>
+
+
+<table style="width:100%">
+<tr>
+<th>7X Champions League Winner</th>
+<th colspan='2'>
+<th> 06/07,02/03,93/94</th>
+<th> 06/07,02/03,93/94</th>
+</tr>
+</table>
+<br>
+
+<table style="width:100%">
+<tr>
+<th>Trophies</th>
+<th colspan='2'>
+<th>
+</tr>
+</table>
